@@ -1,0 +1,11 @@
+section {
+    margin: 0% 300px;
+}
+.todo-body {
+    text-align: center;
+    padding: 20px; 
+    background-color: black;
+}
+ul {
+    list-style: none;
+}
