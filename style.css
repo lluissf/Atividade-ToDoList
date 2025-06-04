@@ -1,11 +1,19 @@
 section {
     margin: 0% 300px;
 }
+ul {
+    list-style: none;
+}
 .todo-body {
     text-align: center;
     padding: 20px; 
     background-color: black;
+    border: 2px solid #0000ff;
+    border-radius: 10px;
 }
-ul {
-    list-style: none;
+.remover {
+    color: #ff0000
+}
+.editar {
+    color: #0000ff;
 }
